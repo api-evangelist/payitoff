@@ -65,6 +65,11 @@ created: '2026-07-17'
 modified: '2026-07-21'
 apis: []
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/array/
+  name: Array
+  x-relationship: acquired
+  x-evidence: "Payitoff was acquired by Array, the embeddable finance and consumer-credit platform, where it now powers the Student Loan Aid and broader debt product suite delivered through Array's embed layer."
 - type: DomainSecurity
   url: security/payitoff-domain-security.yml
 - type: Website
