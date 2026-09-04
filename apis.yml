@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.payitoff.io', status: 301, note: 'declared website redirects to https://array.com:443/products/student-loan-aid?utm_source=payitoff&utm_medium=website&utm_campaign=referral/ — a different registrable domain (payitoff.io -> array.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/payitoff.png
 name: Payitoff
 description: >-
