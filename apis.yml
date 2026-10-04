@@ -46,7 +46,7 @@ x-backed-by:
 x-acquired-by: array
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Fintech
 - Debt Management
 - Student Loans
@@ -62,6 +62,7 @@ tags_raw:
 - Lending
 - Embedded Finance
 - Consumer Credit
+- Financial-Services
 specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
